@@ -1,3 +1,5 @@
+# PROGRAMMING GUIDELINES
+
 ### 7 STUDY TIPS
 
 1. Prepare yourself to study. Make a plan.
